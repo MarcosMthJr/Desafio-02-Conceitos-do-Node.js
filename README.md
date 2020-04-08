@@ -1,4 +1,3 @@
-![](saida.jpeg)
 # Desafio-02-Conceitos-do-Node.js
 Esse é o desafio 02 do bootcamp da Rocketseat (turma goStack11), sobre nodeJs.
 ### Objetivo
