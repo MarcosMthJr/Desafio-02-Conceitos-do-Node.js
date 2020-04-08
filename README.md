@@ -3,7 +3,7 @@
 Esse é o desafio 02 do bootcamp da Rocketseat (turma goStack11), sobre nodeJs.
 
 ### Objetivo
-- Fazer uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
+- Faça uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
 **OBS: Usando array para armazenar os repositórios.**
 
