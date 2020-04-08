@@ -1,3 +1,4 @@
+![](saida.jpeg)
 # Desafio-02-Conceitos-do-Node.js
 Esse é o desafio 02 do bootcamp da Rocketseat (turma goStack11), sobre nodeJs.
 ### Objetivo
@@ -7,5 +8,9 @@ Esse é o desafio 02 do bootcamp da Rocketseat (turma goStack11), sobre nodeJs.
 
 Logo após terminar a aplicação e ver os resultados no Insomnia, devemos executar o script test no terminal, para que ele possa 
 verificar se passamos em todos os pontos do desafio!
+
+Saída do teste:
+<img src="saida.jpeg">
+
 
 **Rocketseat!! goStack11!! Desafio02 NodeJS!!**
