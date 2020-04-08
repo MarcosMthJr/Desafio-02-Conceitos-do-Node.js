@@ -1,5 +1,5 @@
-![](saida.jpeg)
 # Desafio-02-Conceitos-do-Node.js
+<img src="demo.gif">
 Esse é o desafio 02 do bootcamp da Rocketseat (turma goStack11), sobre nodeJs.
 ### Objetivo
 - Fazer uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
@@ -10,7 +10,9 @@ Logo após terminar a aplicação e ver os resultados no Insomnia, devemos execu
 verificar se passamos em todos os pontos do desafio!
 
 Saída do teste:
+<img src="teste.gif">
 <img src="saida.jpeg">
+
 
 
 **Rocketseat!! goStack11!! Desafio02 NodeJS!!**
